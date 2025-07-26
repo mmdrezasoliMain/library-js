@@ -4,7 +4,7 @@ online library with local storage saving
 =======
 # 📚 My Library JS BookList
 
-![Preview of My Library JS BookList](previe-img1.png)
+![Preview of My Library JS BookList](./preview/previe-img1.png)
 
 ---
 
@@ -38,7 +38,7 @@ A simple and clean **online library** web app where you can add your favorite bo
 
 ## 📸 Screenshot
 
-![App Screenshot](previe-img1.png)
+![App Screenshot](./preview/previe-img1.png)
 
 ---
 
